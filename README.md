@@ -15,7 +15,7 @@
   Focused on rapid development without sacrificing design consistency.
 
 - **Copy-Paste Ready**
-  Components are production-ready out of the box — no setup required.
+  Components are production-ready out of the box  no setup required.
 
 - **Versatile Use Cases**
   Perfect for developers, designers, startups and product teams.
@@ -40,7 +40,5 @@ We welcome contributions from the community!
 4. Open a Pull Request
 
 👉 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
-
----
 
 > 🔗 **Explore here**: [https://prebuiltui.com](https://prebuiltui.com?ref=github)
